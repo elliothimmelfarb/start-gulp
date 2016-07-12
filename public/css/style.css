@@ -1,0 +1,10 @@
+h1 {
+  color: #a70000; }
+
+.form-group {
+  input-font-size: 100px; }
+  .form-group label {
+    margin-bottom: 0px; }
+
+form {
+  width: 250px; }

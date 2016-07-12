@@ -1,0 +1,1 @@
+"use strict";var app=angular.module("myApp",["ui.router"]);app.config(["$stateProvider","$urlRouterProvider",function(r,a){r.state("home",{url:"/",templateUrl:"/html/home.html"}),a.otherwise("/")}]);var app=angular.module("myApp");app.controller("mainCtrl",function(){console.log("mainCtrl!")});var app=angular.module("myApp");
